@@ -1,0 +1,6 @@
+
+*.suo
+*.user
+obj
+[Dd]ebug
+[Rr]elease
